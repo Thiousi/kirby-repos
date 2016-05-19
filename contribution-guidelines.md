@@ -12,6 +12,8 @@ Not everything must be shared. Your license key for instance in your configurati
 /thumbs
 ```
 
+Read more about securing your Kirby repo on Fabian's [forum post](https://forum.getkirby.com/t/github-repo-security-advice/4157?u=thiousi). 
+
 ## Contributing to the kirby-repos list 
 1. Verify that the repository hasn't been listed or submitted (see pull requests) already 
 2. Verify that no sensitive information is available in the repository 
