@@ -8,3 +8,4 @@ This list aims to collect all the Kirby powered websites available in public rep
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
 - improve the contribution guidelines. Separate into its own file. 
+- add recommendations on how best to share a project. 
