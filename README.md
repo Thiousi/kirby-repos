@@ -1,7 +1,8 @@
 # Kirby Repos
-This list aims to collect all the Kirby powered websites available in public repositories on github as a learning ressource. Please visit [getkirby.com](http://getkirby.com) to learn more about Kirby. You can add a repo to the list by suggesting a modification to this Readme file. Use the following format ` [username/repo name](repo url) | description`. 
+This list aims to collect all the Kirby powered websites available in public repositories on github as a learning ressource. Please visit [getkirby.com](http://getkirby.com) to learn more about Kirby.
+Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos/blob/master/contribution-guidelines.md) to add a repository to the list. 
 
-## The list
+## Awesome Kirby Repos
 - [getkirby / getkirby.com](https://github.com/getkirby/getkirby.com) | the official website of the getkirby CMS. 
 - [kdeckr / kyledecker.me](https://github.com/kdeckr/kyledecker.me) | The personal homepage for Kyle Decker, designer.
 - [stinlemp / studiotonique](https://github.com/stinlemp/studiotonique) | Website built with Kirby for Studio Tonique. 
