@@ -2,7 +2,15 @@
 This list aims to collect all the Kirby powered websites available in public repositories on github as a learning ressource. Please visit [getkirby.com](http://getkirby.com) to learn more about Kirby. You can add a repo to the list by suggesting a modification to this Readme file. Use the following format ` [username/repo name](repo url) | description`. 
 
 ## The list
-[getkirby/getkirby.com](https://github.com/getkirby/getkirby.com) | the official website of the getkirby CMS. 
+[getkirby / getkirby.com](https://github.com/getkirby/getkirby.com) | the official website of the getkirby CMS. 
+[kdeckr / kyledecker.me](https://github.com/kdeckr/kyledecker.me) | The personal homepage for Kyle Decker, designer.
+[stinlemp / studiotonique](https://github.com/stinlemp/studiotonique) | Website built with Kirby for Studio Tonique. 
+[ronniemon / ronniemontoya-portfolio-design](https://github.com/ronniemon/ronniemontoya-portfolio-design) | Portfolio website design in Kirby CMS. 
+[Flobin / robinberghuijs.com](https://github.com/Flobin/robinberghuijs.com) | This will be the new version of my personal website, robinberghuijs.com. It is powered by Kirby.
+[iamtimm / awsme.me](https://github.com/iamtimm/awsme.me) |  The personal website & blog of Timothy Achumba. 
+[aoimedia / kosmonautensofa](https://github.com/aoimedia/kosmonautensofa) | Website of Philipp Seefeldt, made with Kirby. 
+[tobiasfabian / cellulart.de](https://github.com/tobiasfabian/cellulart.de) | Website of cellu l’art, the short film festival in Jena, Germany. 
+[malvese / amitievillages](https://github.com/malvese/amitievillages) | Website of Amitié Villages amitievillages.org. 
 
 
 ## To-do 
