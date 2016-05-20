@@ -16,6 +16,10 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [properinteractive / shopdropping](https://github.com/properinteractive/Shopdropping) | This repo is the GitHub repository for http://shopdropping.net The site is built with Kirby Cms. 
 - [aureus / architecture](https://github.com/aurerua/architecture) | A website built with Kirby, Bootstrap and Hammer.js 
 - [splorp / newton-glossary](https://github.com/splorp/newton-glossary) | An almost definitive guide to Newton-related terms and definitions. http://glossary.splorp.me
+- [JonasDoebertin / getkirby-plugins](https://github.com/JonasDoebertin/getkirby-plugins) | This repository contains the source files for getkirby-plugins.com
+- [grubersjoe / blog](https://github.com/grubersjoe/blog) | Grubersjoe's personal website
+- [jamesacklin / atrm-kirby](https://github.com/jamesacklin/atrm-kirby) | All the Right Moves is a screencast highlighting and demystifying UI animations on the Web.
+- [electricgecko / nlf-team](https://github.com/electricgecko/nlf-team) | Tiny website for design collective NLF-Team
 
 
 
