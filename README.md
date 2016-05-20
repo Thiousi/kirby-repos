@@ -13,9 +13,9 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [tobiasfabian / cellulart.de](https://github.com/tobiasfabian/cellulart.de) | Website of cellu l’art, the short film festival in Jena, Germany. 
 - [malvese / amitievillages](https://github.com/malvese/amitievillages) | Website of Amitié Villages amitievillages.org. 
 - [AhoyLemon / TheFPlus](https://github.com/AhoyLemon/TheFPlus) | The F Plus Podcast
-
+- [properinteractive / shopdropping](https://github.com/properinteractive/Shopdropping) | This repo is the GitHub repository for http://shopdropping.net The site is built with Kirby Cms. 
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
-- improve the contribution guidelines. Separate into its own file. 
-- add recommendations on how best to share a project. 
+- ~~improve the contribution guidelines. Separate into its own file.~~
+- ~~add recommendations on how best to share a project.~~
