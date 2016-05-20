@@ -14,6 +14,9 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [malvese / amitievillages](https://github.com/malvese/amitievillages) | Website of Amitié Villages amitievillages.org. 
 - [AhoyLemon / TheFPlus](https://github.com/AhoyLemon/TheFPlus) | The F Plus Podcast
 - [properinteractive / shopdropping](https://github.com/properinteractive/Shopdropping) | This repo is the GitHub repository for http://shopdropping.net The site is built with Kirby Cms. 
+- [aureus / architecture](https://github.com/aurerua/architecture) | A website built with Kirby, Bootstrap and Hammer.js 
+
+
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
