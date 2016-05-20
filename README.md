@@ -15,6 +15,7 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [AhoyLemon / TheFPlus](https://github.com/AhoyLemon/TheFPlus) | The F Plus Podcast
 - [properinteractive / shopdropping](https://github.com/properinteractive/Shopdropping) | This repo is the GitHub repository for http://shopdropping.net The site is built with Kirby Cms. 
 - [aureus / architecture](https://github.com/aurerua/architecture) | A website built with Kirby, Bootstrap and Hammer.js 
+- [splorp / newton-glossary](https://github.com/splorp/newton-glossary) | An almost definitive guide to Newton-related terms and definitions. http://glossary.splorp.me
 
 
 
