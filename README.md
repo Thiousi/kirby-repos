@@ -20,8 +20,18 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [grubersjoe / blog](https://github.com/grubersjoe/blog) | Grubersjoe's personal website
 - [jamesacklin / atrm-kirby](https://github.com/jamesacklin/atrm-kirby) | All the Right Moves is a screencast highlighting and demystifying UI animations on the Web.
 - [electricgecko / nlf-team](https://github.com/electricgecko/nlf-team) | Tiny website for design collective NLF-Team
-
-
+- [webgefrickel / webgefrickel.de](https://github.com/webgefrickel/webgefrickel.de) | This repository is a mirror of everything and the kitchen sink that runs the website https://webgefrickel.de
+- [afincato / gilda.xyz_intro](https://github.com/afincato/gilda.xyz_intro) | A manifesto-like small website for gilda
+- [PSUGraphicDesign / assembly](https://github.com/PSUGraphicDesign/assembly) | Assembly is a five-day exploration of art and social practice.
+- [grubersjoe / blog](https://github.com/grubersjoe/blog) | Joe Gruber's personal website, nueffel.net
+- [evendev / grxyz](https://github.com/evendev/grxyz) | Website of web agency groovy.xyz
+- [evendev / gorge-kirby](https://github.com/evendev/gorge-kirby) | Kirby-based site for thegorgezipline.com
+- [evendev / apex-kirby](https://github.com/evendev/apex-kirby) | Kirby-based site for apexdetailing.com
+- [evendev / sj-kirby](https://github.com/evendev/sj-kirby) | Kirby-based Website for stevejamesson.com
+- [evendev / mcmills-kirby](https://github.com/evendev/mcmills-kirby) | irby-based website for the McAllister Mills primary website mcallistermills.com
+- [trimtab / website](https://github.com/trimtab/website) | This is the single page site for Trim Tab. Powered by http://getkirby.com
+- [AhoyLemon/DanceMagic](https://github.com/AhoyLemon/DanceMagic) | Dance Studio Website http://dance-n-magic.com/
+- [sustainablepace/humbledev](https://github.com/sustainablepace/humbledev) | The Humble Developer http://blog.baudson.de
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
