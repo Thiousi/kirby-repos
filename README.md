@@ -32,6 +32,7 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [trimtab / website](https://github.com/trimtab/website) | This is the single page site for Trim Tab. Powered by http://getkirby.com
 - [AhoyLemon/DanceMagic](https://github.com/AhoyLemon/DanceMagic) | Dance Studio Website http://dance-n-magic.com/
 - [sustainablepace/humbledev](https://github.com/sustainablepace/humbledev) | The Humble Developer http://blog.baudson.de
+- [chalatz/satirika_kirby](https://github.com/chalatz/satirika_kirby) | A site for a modern greek poet http://satirika.gr
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
