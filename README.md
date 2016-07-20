@@ -33,6 +33,7 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [AhoyLemon/DanceMagic](https://github.com/AhoyLemon/DanceMagic) | Dance Studio Website http://dance-n-magic.com/
 - [sustainablepace/humbledev](https://github.com/sustainablepace/humbledev) | The Humble Developer http://blog.baudson.de
 - [chalatz/satirika_kirby](https://github.com/chalatz/satirika_kirby) | A site for a modern greek poet http://satirika.gr
+- [constantinjoly/kfork](https://github.com/constantinjoly/kfork) | Kirby CMS and Kube CSS Framework http://kc.konstantin.fr/kfork/
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
