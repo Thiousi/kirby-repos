@@ -30,11 +30,22 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [evendev / sj-kirby](https://github.com/evendev/sj-kirby) | Kirby-based Website for stevejamesson.com
 - [evendev / mcmills-kirby](https://github.com/evendev/mcmills-kirby) | irby-based website for the McAllister Mills primary website mcallistermills.com
 - [trimtab / website](https://github.com/trimtab/website) | This is the single page site for Trim Tab. Powered by http://getkirby.com
-- [AhoyLemon/DanceMagic](https://github.com/AhoyLemon/DanceMagic) | Dance Studio Website http://dance-n-magic.com/
-- [sustainablepace/humbledev](https://github.com/sustainablepace/humbledev) | The Humble Developer http://blog.baudson.de
-- [chalatz/satirika_kirby](https://github.com/chalatz/satirika_kirby) | A site for a modern greek poet http://satirika.gr
-- [constantinjoly/kfork](https://github.com/constantinjoly/kfork) | Kirby CMS and Kube CSS Framework http://kc.konstantin.fr/kfork/
+- [AhoyLemon / DanceMagic](https://github.com/AhoyLemon/DanceMagic) | Dance Studio Website http://dance-n-magic.com/
+- [sustainablepace / humbledev](https://github.com/sustainablepace/humbledev) | The Humble Developer http://blog.baudson.de
+- [chalatz / satirika_kirby](https://github.com/chalatz/satirika_kirby) | A site for a modern greek poet http://satirika.gr
+- [constantinjoly / kfork](https://github.com/constantinjoly/kfork) | Kirby CMS and Kube CSS Framework http://kc.konstantin.fr/kfork/
 - [lukasbestle / codesignd](https://git.codesignd.com/sites/codesignd) | Website of codesignd, Lukas Bestle's company https://codesignd.com
+- [NECKRHINOS / hennirocks.de](https://github.com/NECKRHINOS/hennirocks.de) | Personal website of Hendrik Berends, Made with Kirby, Theme Oie 13 http://www.hennirocks.de/
+- [kekebeen / highlander_v2.0](https://github.com/kekebeen/highlander_v2.0) | Rework of original highlander adventures website using kirby cms... http://www.highlander.ba/
+- [jancbeck / jancbeck.com](https://github.com/jancbeck/jancbeck.com) | My Kirby powered personal website http://jancbeck.com/
+- [solastley / Blog](https://github.com/solastley/Blog) | A personal blog made with Kirby CMS, PHP, Sass, and Twitter Bootstrap
+- [laurelschwulst / veryinteractive.net](https://github.com/laurelschwulst/veryinteractive.net) | Class hub website running on Kirby CMS http://veryinteractive.net
+- [chalatz / satirika_kirby](https://github.com/chalatz/satirika_kirby) | Modern greek poetry http://www.satirika.gr
+- [lucienlizlepiorz / lucien.design](https://github.com/lucienlizlepiorz/lucien.design) | design & development portfolio built with Kirby http://lucien.design
+- [shoostar / JRS86](https://github.com/shoostar/JRS86) | Kirby CMS theme for http://jrs86.com
+- [constantinjoly / www](https://github.com/constantinjoly/www) | My site using Kirby CMS https://konstantin.fr/
+- [bugsysop / tmp-antirep](https://github.com/bugsysop/tmp-antirep) | Thème Kirby pour le site http://antirep.temporaires.net
+- [ilmente / typewriter](https://github.com/ilmente/typewriter) | Kirby CMS minimal theme (http://ilmente.com)
 
 ## To-do 
 - add a way to categorize projects (blog, portfolio, one-page, app, more...) 
