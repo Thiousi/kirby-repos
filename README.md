@@ -8,7 +8,7 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [stinlemp / studiotonique](https://github.com/stinlemp/studiotonique) | Website built with Kirby for Studio Tonique.
 - [ronniemon / ronniemontoya-portfolio-design](https://github.com/ronniemon/ronniemontoya-portfolio-design) | Portfolio website design in Kirby CMS.
 - [Flobin / robinberghuijs.com](https://github.com/Flobin/robinberghuijs.com) | This will be the new version of my personal website, robinberghuijs.com. It is powered by Kirby.
-- [iamtimm / awsme.me](https://github.com/iamtimm/awsme.me) |  The personal website & blog of Timothy Achumba.
+- [lukasbestle / awsme.me](https://github.com/lukasbestle/awsme.me) |  The personal website & blog of Timothy Achumba.
 - [aoimedia / kosmonautensofa](https://github.com/aoimedia/kosmonautensofa) | Website of Philipp Seefeldt, made with Kirby.
 - [tobiasfabian / cellulart.de](https://github.com/tobiasfabian/cellulart.de) | Website of cellu l’art, the short film festival in Jena, Germany.
 - [AhoyLemon / TheFPlus](https://github.com/AhoyLemon/TheFPlus) | The F Plus Podcast
@@ -46,7 +46,23 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [bugsysop / tmp-antirep](https://github.com/bugsysop/tmp-antirep) | Thème Kirby pour le site http://antirep.temporaires.net
 - [ilmente / typewriter](https://github.com/ilmente/typewriter) | Kirby CMS minimal theme (http://ilmente.com)
 - [webgefrickel / webgefrickel.de](https://github.com/webgefrickel/webgefrickel.de) | This repository is a mirror of everything and the kitchen sink that runs the website https://webgefrickel.de
-
+- [splorp / newton-glossary](https://github.com/splorp/newton-glossary) | An almost definitive guide to Newton-related terms and definitions. http://glossary.splorp.me/
+- [matthiasludwig / playbook](https://github.com/matthiasludwig/playbook) | Playbook for Job Seekers for www.purplesquirrel.io
+- [elmnt / elmnt](https://github.com/elmnt/elmnt) | This repository holds my personal site. It's built with Grom, a framework I use for some of my client projects. I'm also using Kirby CMS and Baseblog (credit below). http://elmnt.com/
+- [movingwater / www.movingwater.ch](https://github.com/movingwater/www.movingwater.ch) | Site of http://www.movingwater.ch
+- [petertait / newtradition.co.uk](https://github.com/petertait/newtradition.co.uk) | The website for New Tradition with a grid based design built on Kirby CMS and utilising gulp. http://newtradition.co.uk/
+- [meltajon / portfolio](https://github.com/meltajon/portfolio) | Portfolio of Mel Tajon https://www.meltajon.com/
+- [Meuss / thomasmiller](https://github.com/Meuss/thomasmiller) | My new portfolio website, http://thomasmiller.ch
+- [tobiasfabian / madlentamm.de](https://github.com/tobiasfabian/madlentamm.de) | Website of supervisor Madlen Tamm http://madlentamm.de
+- [greatcarrot / robertnilsson](https://github.com/greatcarrot/robertnilsson) | Portfolio of photographer Robert Nilsson http://www.robertnilsson.net/
+- [sharontheil / bengroulx.com](https://github.com/sharontheil/bengroulx.com) | This is the source for http://bengroulx.com.
+- [bramsmulders / bramsmulders.com](https://github.com/bramsmulders/bramsmulders.com) | This is the uncompiled source code of bramsmulders.com
+- [parasutcom / styleguide](https://github.com/parasutcom/styleguide) | Design Style Guide for Paraşüt
+- [movingwater / www.dealu-negru.ch](https://github.com/movingwater/www.dealu-negru.ch) | Source of http://www.dealu-negru.ch/
+- [ldanielswakman / habita-site](https://github.com/ldanielswakman/habita-site) | website for coworking space Habita http://habita.com.tr/en
+- [ldanielswakman / hip-containers](https://github.com/ldanielswakman/hip-containers) | Website for Hip Containers http://hipcontainers.nl/
+- [berlinconnect / berlinconnect](https://github.com/berlinconnect/berlinconnect) | The website for Berlin Connect, A new local church in the heart of Berlin http://myberlinconnect.de
+- [bryanconnor / thewhyaxis](https://github.com/bryanconnor/thewhyaxis) | Code for The Why Axis http://thewhyaxis.info/
 
 ## To-do
 - add a way to categorize projects (blog, portfolio, one-page, app, more...)
