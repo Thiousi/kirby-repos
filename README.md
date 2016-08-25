@@ -59,7 +59,7 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [bramsmulders / bramsmulders.com](https://github.com/bramsmulders/bramsmulders.com) | This is the uncompiled source code of bramsmulders.com
 - [parasutcom / styleguide](https://github.com/parasutcom/styleguide) | Design Style Guide for Paraşüt
 - [movingwater / www.dealu-negru.ch](https://github.com/movingwater/www.dealu-negru.ch) | Source of http://www.dealu-negru.ch/
-- [ldanielswakman / habita-site](https://github.com/ldanielswakman/habita-site) | website for coworking space Habita http://habita.com.tr/en
+- [ldanielswakman / habita-site](https://github.com/ldanielswakman/habita-site) | website for coworking space Habita http://habita.com.tr/en Part of the Kirby CMS (blog, members and events content types) are set up as an API.
 - [ldanielswakman / hip-containers](https://github.com/ldanielswakman/hip-containers) | Website for Hip Containers http://hipcontainers.nl/
 - [berlinconnect / berlinconnect](https://github.com/berlinconnect/berlinconnect) | The website for Berlin Connect, A new local church in the heart of Berlin http://myberlinconnect.de
 - [bryanconnor / thewhyaxis](https://github.com/bryanconnor/thewhyaxis) | Code for The Why Axis http://thewhyaxis.info/
