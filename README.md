@@ -63,7 +63,8 @@ Please read the [contribution guidelines](https://github.com/Thiousi/kirby-repos
 - [ldanielswakman / hip-containers](https://github.com/ldanielswakman/hip-containers) | Website for Hip Containers http://hipcontainers.nl/
 - [berlinconnect / berlinconnect](https://github.com/berlinconnect/berlinconnect) | The website for Berlin Connect, A new local church in the heart of Berlin http://myberlinconnect.de
 - [bryanconnor / thewhyaxis](https://github.com/bryanconnor/thewhyaxis) | Code for The Why Axis http://thewhyaxis.info/
-- [tobiasfabian / freiraumsyndikat.com](https://github.com/tobiasfabian/freiraumsyndikat.com) | Website of music ensemble Freiraum Syndikat http://freiraumsyndikat.com/
+- [tobiasfabian / freiraumsyndikat.com](https://github.com/tobiasfabian/freiraumsyndikat.com) | Website of music ensemble Freiraum Syndikat http://freiraumsyndikat.com
+- [tobiasfabian / lukasdreyer.de](https://github.com/tobiasfabian/lukasdreyer.de) | Website of Lukas Dreyer is a german cellist, arranger, impresario http://lukasdreyer.de.
 
 ## To-do
 - add a way to categorize projects (blog, portfolio, one-page, app, more...)
